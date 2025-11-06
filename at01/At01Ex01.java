@@ -8,7 +8,7 @@ public class At01Ex01 {
         int Inombre1;
         int Inombre2;
         Scanner lectureNombre = new Scanner(System.in);
-     
+        
 
         System.out.println("Entrer le premier numéro : ");
         Inombre1 = lectureNombre.nextInt();

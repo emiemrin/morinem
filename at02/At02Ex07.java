@@ -28,5 +28,7 @@ public class At02Ex07 {
 
         System.out.println("Nombre de voyelles : " + iVoyelles);
         System.out.println("Nombre de consonnes : " + iConsonnes);
+
+        lecture.close();
     }
 }
